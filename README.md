@@ -1,2 +1,2 @@
 # character-test
-C character test 
+C++ character test 
